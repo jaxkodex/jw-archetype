@@ -14,3 +14,5 @@ hs_err_pid*
 # IntelliJ project setts
 .idea/
 jw-quickstart.iml
+
+target/

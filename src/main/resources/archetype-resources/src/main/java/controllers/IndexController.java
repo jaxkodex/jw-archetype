@@ -1,4 +1,4 @@
-package org.kodex.web.controllers;
+package ${package}.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
